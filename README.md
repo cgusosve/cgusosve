@@ -3,7 +3,7 @@
 <img src="./img/dragon.jpg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
 
-Software Developer especially focused on backend development with C# and Java, able to effectively self-manage during independent projects, as well as collaborate as part of a productive team, easily adapting to changes, self-taught and always looking to hone my skills and learn new ones.
+Software Developer especially focused on backend development with C# and Java and transactional payment systems with C++, able to effectively self-manage during independent projects, as well as collaborate as part of a productive team, easily adapting to changes, self-taught and always looking to hone my skills and learn new ones.
 
 ## ⚡ Most used technologies
 
